@@ -1,4 +1,4 @@
-Software Engineer with CURRENT_YEAR+ years of experience in Software Industry.<br />
+Software Engineer with 7+ years of experience in Software Industry.<br />
 
 
 
