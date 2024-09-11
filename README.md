@@ -8,7 +8,7 @@ SKILLS
       			<li>Java</li>
 			<li>SQL</li>
 		
-			<br/>
+			
 			<li>HTML</li>
 			<li>CSS</li>
 			<li>JavaScript</li>
@@ -17,7 +17,7 @@ SKILLS
 			<li>Data Structures</li>
 			<li>Algorithms</li>
 			<li>System Design</li>
-			<br/>
+			
 			<li>Blogging</li>
 			
 			
